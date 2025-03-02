@@ -1,0 +1,9 @@
+id,age,income,gender,city,spending_score
+1,25,50000,Male,New York,60
+2,30,60000,Female,Los Angeles,80
+3,35,70000,Male,Chicago,70
+4,,80000,Female,New York,90
+5,40,90000,Male,Los Angeles,85
+6,45,,Female,Chicago,75
+7,50,110000,Male,New York,65
+8,55,120000,Female,Los Angeles,95
